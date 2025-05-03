@@ -22,11 +22,17 @@ Execute the C Program for the desired output.
 
 ## Write a C program that illustrates two processes communicating using shared memory.
 
+![image](https://github.com/user-attachments/assets/739f7195-2fd5-44ed-8b9c-86b832d4b388)
+
+
 
 
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/ad8f95bc-467b-4a1d-a9b8-e07e981dbb96)
+
 
 
 # RESULT:
